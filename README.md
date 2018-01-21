@@ -1,0 +1,2 @@
+# MrGan
+Minecraft Server
